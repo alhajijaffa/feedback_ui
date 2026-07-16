@@ -25,11 +25,7 @@ feedback-ui/
 ├── style.css
 ├── script.js
 └── README.md
-```
+``` 
 
-## License
-
-This project is licensed under the MIT License
-By Alhaji jaffa.
 
 if you found this project helpful, please giving it  a star.
