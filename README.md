@@ -1,8 +1,8 @@
-# Feedback UI
+Feedback UI
 
 A simple, responsive **Feedback UI** built with **HTML**, **CSS**, and **JavaScript** that allows users to submit feedback through an API. The project focuses on providing a clean user experience with client-side validation and seamless API integration.
 
-## 🚀 Features
+  Features
 
 - Responsive and modern user interface
 - Submit user feedback through an API
@@ -11,14 +11,14 @@ A simple, responsive **Feedback UI** built with **HTML**, **CSS**, and **JavaScr
 - Clean and reusable code structure
 - Easy to customize and extend
 
-## 🛠️ Built With
+ Built With
 
 - HTML5
 - CSS3
 - JavaScript (ES6+)
 - REST API (Fetch API)
 
-## 📂 Project Structure
+ Project Structure
 
 ```text
 feedback-ui/
@@ -32,7 +32,7 @@ feedback-ui/
 └── README.md
 ```
 
-## ⚙️ Installation
+Installation
 
 1. Clone the repository.
 
@@ -74,7 +74,7 @@ fetch(API_URL, {
 });
 ```
 
-## 📸 Screenshot
+Screenshot
 
 Add a screenshot of your application here.
 
@@ -82,7 +82,7 @@ Add a screenshot of your application here.
 assets/images/screenshot.png
 ```
 
-## 🎨 Customization
+Customization
 
 You can easily customize:
 
@@ -93,14 +93,14 @@ You can easily customize:
 - API endpoint
 - Validation messages
 
-## 📋 How It Works
+How It Works
 
 1. User fills out the feedback form.
 2. JavaScript validates the input.
 3. The feedback is sent to the API using the Fetch API.
 4. The user receives a success or error message based on the API response.
 
-## 🚀 Future Improvements
+ Future Improvements
 
 - Dark mode
 - Star rating system
@@ -109,7 +109,7 @@ You can easily customize:
 - Better error handling
 - Authentication support
 
-## 🤝 Contributing
+Contributing
 
 Contributions are welcome.
 
@@ -134,16 +134,14 @@ git push origin feature-name
 
 5. Open a Pull Request.
 
-## 📄 License
+License
 
 This project is licensed under the MIT License.
 
-## 👨‍💻 Author
+Author
+Alhaji jaffa
 
-**Your Name**
-
-GitHub: https://github.com/your-username
+GitHub: https://github.com/alhajijaffa
 
 ---
-
-⭐ If you found this project helpful, consider giving it a star!
+ If you found this project helpful, consider giving it a star!
