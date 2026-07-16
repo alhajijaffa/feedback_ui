@@ -7,7 +7,6 @@ A simple feedback application built with **HTML**, **CSS**, and **JavaScript**. 
 - Responsive design
 - Feedback form
 - Client-side validation
-- API integration using Fetch API
 - Success and error messages
 
 ## Technologies
