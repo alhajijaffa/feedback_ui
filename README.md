@@ -29,3 +29,5 @@ feedback-ui/
 
 
 if you found this project helpful, please giving it  a star.
+
+To know more about this project visit: https://alhajijaffa.github.io/feedback_ui/
